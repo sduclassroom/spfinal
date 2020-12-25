@@ -1,9 +1,9 @@
 ### spfinal solution
 
 ***
-* Name: Vasya Pupkin
-* Email: 100000026@sdu.stu.edu.kz
-* Variant: [01](../variants/variant01.md)
+* Name: Adilet Saparbay
+* Email: 180107194@stu.sdu.edu.kz
+* Variant: [20](../variants/variant20.md)
 * Solution: [./top](./top)
 ***
 
