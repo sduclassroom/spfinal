@@ -16,30 +16,28 @@ Explanation
 3)'Grep' to exclude lines that are
 ***
 4)We will sort
-
+***
 5)We have two columns 'reference' and the name of the application and we will be the brother of the application from it
-
+***
 6)The applications have versions of the numbers i will erase them with 'sed'
-
+***
 7)And we will again sort 
-
+***
 8)Then with "uniq -c" will group
-
+***
 9)For example:
-
-mozilla
-
-mozilla
-
-chrome
+***
+*mozilla
+*mozilla
+*chrome
 
 if it's worth it
 
 will change:
 
-mozilla 2
-chrome 1
-
+*mozilla 2
+*chrome 1
+***
 10)Next will sorT by numbers and by names
 
 11)And  have a number that was originally given
