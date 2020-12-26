@@ -9,7 +9,7 @@
 
 
 Explanation
-***
+
 1)'cut' works like split, will divide problems
 ***
 2)There is 'sed' to remove
