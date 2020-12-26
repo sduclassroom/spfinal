@@ -24,23 +24,23 @@ Explanation
 7)And we will again sort 
 ***
 8)Then with "uniq -c" will group
-***
-9)For example:
+
+For example:
 ***
 mozilla mozilla chrome if it's worth it
 
 will change: mozilla 2 chrome 1
 ***
-10)Next will sorT by numbers and by names
+9)Next will sorT by numbers and by names
 ***
 
-11)And  have a number that was originally given
+10)And  have a number that was originally given
 ***
 
-12)When write /top.sh 5 the first take 5 this nubmer
+11)When write /top.sh 5 the first take 5 this nubmer
 ***
 
-13)Then awk the first begin well count total
+12)Then awk the first begin well count total
 
 For example:
 
@@ -51,10 +51,10 @@ chrome1
 will be,general be 3 and this 3 will be count in the second  will be used to divide by this number and calculate the percentage
 ***
 
-14)printf used to output data by formatting
+13)printf used to output data by formatting
 ***
 
-15)Next chorme 1, mozilla2 will output
+14)Next chorme 1, mozilla2 will output
 
 mozilla 2 66%
 
