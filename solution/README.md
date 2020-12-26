@@ -57,9 +57,9 @@ will be,general be 3 and this 3 will be count in the second  will be used to div
 
 14)Next chorme 1, mozilla2 will output
 
-mozilla 2 66%
+* mozilla 2 66%
 
-chorome 1 33
+* chorome 1 33%
 
 Found percentage of division by total
 
