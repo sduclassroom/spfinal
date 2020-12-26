@@ -52,8 +52,8 @@ for example:
 mozilla 2
 
 chrome1 
-will be,general be 3 and this 3 will be count
-in the second  will be used to divide by this number and calculate the percentage
+
+will be,general be 3 and this 3 will be count in the second  will be used to divide by this number and calculate the percentage
 
 14)printf used to output data by formatting
 
