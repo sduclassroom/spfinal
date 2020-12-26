@@ -27,22 +27,18 @@ Explanation
 ***
 9)For example:
 ***
-*mozilla
-*mozilla
-*chrome
+mozilla mozilla chrome if it's worth it
 
-if it's worth it
-
-will change:
-
-*mozilla 2
-*chrome 1
+will change: mozilla 2 chrome 1
 ***
 10)Next will sorT by numbers and by names
+***
 
 11)And  have a number that was originally given
+***
 
 12)When write /top.sh 5 the first take 5 this nubmer
+***
 
 13)Then awk the first begin well count total
 
@@ -53,8 +49,10 @@ mozilla 2
 chrome1 
 
 will be,general be 3 and this 3 will be count in the second  will be used to divide by this number and calculate the percentage
+***
 
 14)printf used to output data by formatting
+***
 
 15)Next chorme 1, mozilla2 will output
 
@@ -63,6 +61,7 @@ mozilla 2 66%
 chorome 1 33
 
 Found percentage of division by total
+***
 
 
 
