@@ -26,7 +26,7 @@ Explanation
 8)Then with "uniq -c" will group
 
 For example:
-***
+
 mozilla mozilla chrome if it's worth it
 
 will change: mozilla 2 chrome 1
