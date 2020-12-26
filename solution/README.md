@@ -7,6 +7,7 @@
 * Solution: [./top](./top)
 ***
 
+Explanation
 ***
 1)'cut' works like split, will divide problems
 ***
