@@ -6,4 +6,7 @@
 
 # here comes your solution
 # e.g.
-cut -d' ' -f1 $2 | head -$1 | cat -n
+
+result=$(cut -d ' ' -f11,12 log.txt | sed 's/"//g' | grep '^[^-]' | sort | cut -d ' ' -f2 | sed 's/\/.*//' | sort | uniq -c | sort -n -r | head -$1 | awk 'BEGIN{n=0}{sum+=$1; a[n]=$1; b[n]=$2; n++}END{for(i=0;i<n;i++) printf "%d. %s - %.0f - %0.1f%%\n", i+1, b[i], a[i], a[i]/sum*100}')
+
+echo "$result"
