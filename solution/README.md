@@ -45,9 +45,9 @@ will change: mozilla 2 chrome 1
 
 For example:
 
-mozilla 2
+* mozilla 2
 
-chrome1 
+* chrome1 
 
 will be,general be 3 and this 3 will be count in the second  will be used to divide by this number and calculate the percentage
 
