@@ -28,9 +28,9 @@
 
 For example:
 
-mozilla mozilla chrome if it's worth it
+* mozilla mozilla chrome if it's worth it
 
-will change: mozilla 2 chrome 1
+* will change: mozilla 2 chrome 1
 
 9)Next will sorT by numbers and by names
 
