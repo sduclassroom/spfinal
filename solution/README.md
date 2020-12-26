@@ -12,9 +12,9 @@ Explanation
 1)'cut' works like split, will divide problems
 ***
 2)There is 'sed' to remove
-
+***
 3)'Grep' to exclude lines that are
-
+***
 4)We will sort
 
 5)We have two columns 'reference' and the name of the application and we will be the brother of the application from it
